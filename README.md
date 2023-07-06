@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning full-stack web development
+- 🌱 I’m currently working on Mern Stack web development
 - 👯 I’m looking to collaborate on projects that requires ReactJS
 -  💬 Ask me about Web-development, Cricket, Mountains
 - 📫 How to reach me: Email - abhishekzadav@gmail.com
